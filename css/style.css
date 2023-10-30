@@ -1,0 +1,22 @@
+/* 
+    reset 
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 
+    general 
+*/
+
+/* 
+    main 
+*/
+
+.container{
+    margin: 0 auto;
+    max-width: 1200px;
+}
